@@ -1,0 +1,35 @@
+---
+galaxy_info:
+  author: Frederic Leger
+  description: Fake ansible role to use with requirements.yml when complainig as empty
+  company: webofmars
+  license: GPLv3
+  min_ansible_version: 2.1
+  platforms:
+  - name: EL
+    versions:
+      - all
+  - name: GenericUNIX
+    versions:
+      - all
+  - name: Windows
+    versions:
+      - all
+  - name: Amazon
+    versions:
+      - all
+  - name: GenericBSD
+    versions:
+      - all
+  - name: FreeBSD
+    versions:
+      - all
+  - name: Ubuntu
+    versions:
+      - all
+  - name: Debian
+    versions:
+      - all
+  categories:
+    - system
+dependencies: []
